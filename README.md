@@ -60,15 +60,14 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushalnandaniya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalnandaniya&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalnandaniya&theme=tokyonight&hide_border=true&background=0D1117" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalnandaniya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaushalnandaniya&theme=tokyonight" width="70%" />
 </p>
 
 ---
