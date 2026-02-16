@@ -44,7 +44,8 @@
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Codeforces-1789C9?style=flat-square&logo=codeforces&logoColor=white" /></td>
-    <td align="center"><b>1,170</b></td>
+    <td align="center"><b>1,227</b></td>
+    <td align="center"><b>"Pupil"</b></td>
   </tr>
 </table>
 
