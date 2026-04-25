@@ -17,7 +17,7 @@
 
 - 🎓 **B.Tech in Mathematics & Computing** at **DA-IICT, Gandhinagar**
 - 🧠 Passionate about **Machine Learning**, **NLP**, and **Software Engineering**
-- 🏆 **400+ DSA** problems solved across platforms
+- 🏆 **Expert @Kaggle** (Global Rank: 285) & **Pupil @Codeforces**
 - 🔬 Research on **"Instant Insanity"** puzzle and mathematical variations
 - 🌐 Check out my portfolio → [kaushalnandaniya.vercel.app](https://kaushalnandaniya.vercel.app)
 
@@ -58,9 +58,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🧠 [**Twitter Sentiment (RoBERTa)**](https://github.com/kaushalnandaniya/Twitter-Sentiment-Analysis-Using-roBERTa) | Fine-tuned RoBERTa on 1.6M+ samples — **88% accuracy** | TensorFlow, Hugging Face |
-| 💰 [**Mutual Fund Database**](https://github.com/kaushalnandaniya/AssetManagement) | Real-time asset management with automated NAV updates | PostgreSQL, Python |
-| 📊 [**Risk Management System**](https://github.com/kaushalnandaniya/RiskManagement) | Financial trading system with real-time stock monitoring | Java, MySQL |
+| 💰 [**Wealth Management Engine**](https://github.com/kaushalnandaniya/AssetManagement) | Real-time portfolio management with dynamic holdings tracking | PostgreSQL, Python |
+| 📈 [**Derivatives Pricing & Risk Engine**](https://github.com/kaushalnandaniya) | Quantitative pricing models (Black-Scholes, Monte Carlo) & Greeks | Python, NumPy |
+| 📊 [**Real-Time Trading & Risk Monitoring**](https://github.com/kaushalnandaniya/RiskManagement) | Low-latency trading signal system with arbitrage detection | Java, MySQL |
 
 ---
 
