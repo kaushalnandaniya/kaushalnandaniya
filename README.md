@@ -59,9 +59,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalnandaniya&theme=tokyonight&hide_border=true&background=0D1117" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaushalnandaniya&theme=tokyonight" width="70%" />
-</p>
 
 ---
 
